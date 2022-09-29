@@ -1,8 +1,8 @@
 {
-  "homepage": "http://jmitch12.github.io/gm-inputs-mui/",
   "name": "gm-inputs-mui",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://jmitch12.github.io/gm-inputs-mui/",
   "dependencies": {
     "@emotion/react": "^11.10.4",
     "@emotion/styled": "^11.10.4",
